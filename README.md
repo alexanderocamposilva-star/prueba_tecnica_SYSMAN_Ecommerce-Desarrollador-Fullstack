@@ -31,35 +31,7 @@ Sistema de gestión de materiales desarrollado como prueba técnica fullstack co
 
 ## 📦 Estructura del Proyecto
 
-prueba_tecnica_SYSMAN_Ecommerce-Desarrollador-Fullstack/
-│
-├── 📂 backend/
-│ ├── 📂 src/main/java/com/sysman/ecommerce/
-│ │ ├── 📂 config/ # Configuraciones
-│ │ ├── 📂 controller/ # Controladores REST
-│ │ ├── 📂 model/ # Entidades JPA
-│ │ ├── 📂 repository/ # Repositorios Spring Data
-│ │ ├── 📂 service/ # Lógica de negocio
-│ │ ├── 📂 security/ # Configuración de seguridad
-│ │ └── Application.java # Clase principal
-│ ├── Dockerfile # Docker para backend
-│ └── pom.xml # Dependencias Maven
-│
-├── 📂 frontend/
-│ ├── 📂 src/
-│ │ ├── 📂 app/
-│ │ │ ├── 📂 components/ # Componentes Angular
-│ │ │ ├── 📂 services/ # Servicios HTTP
-│ │ │ ├── 📂 models/ # Modelos TypeScript
-│ │ │ └── 📂 guards/ # Guards de autenticación
-│ │ └── 📂 assets/ # Recursos estáticos
-│ ├── Dockerfile # Docker para frontend
-│ ├── nginx.conf # Configuración Nginx
-│ └── package.json # Dependencias Node.js
-│
-├── 📄 docker-compose.yml # Orquestación de servicios
-├── 📄 .gitignore # Archivos ignorados por Git
-└── 📄 README.md # Este archivo
+<img width="523" height="706" alt="image" src="https://github.com/user-attachments/assets/213b6d1b-6902-4bb0-9bb7-ca0aaf146284" />
 
 ## 🛠️ Instalación y Ejecución
 
