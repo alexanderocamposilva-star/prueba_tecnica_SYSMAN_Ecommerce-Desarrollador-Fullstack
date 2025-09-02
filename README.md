@@ -1,4 +1,4 @@
-# 🛒 SYSMAN Ecommerce - Prueba Técnica Fullstack
+# 🛒 SYSMAN - Prueba Técnica Fullstack
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-16+-red)](https://angular.io)
